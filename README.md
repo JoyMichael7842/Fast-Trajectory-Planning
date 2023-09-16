@@ -1,4 +1,4 @@
-# Snake-Game
+# Fast trajectory Planning
 Fast Trajectory Planning written in Python 3.8
 
 ## Getting Started
