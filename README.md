@@ -1,7 +1,7 @@
 # Fast trajectory Planning
 Fast Trajectory Planning written in Python 3.8
 
-![](https://github.com/JoyMichael7842/Fast-Trajectory-Planning/Pygame.gif)
+![](https://github.com/JoyMichael7842/Fast-Trajectory-Planning/blob/main/Pygame.gif)
 
 ## Getting Started
 
