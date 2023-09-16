@@ -12,10 +12,14 @@ WINDOW_HEIGHT = 100*5
 WINDOW_WIDTH = 100*5
 
 grid = Grid(5,5,[(1,2),(2,2),(3,2),(2,3),(3,3),(4,3)])
-start = (4,2)
-goal = (4,4)
-rows = 5
-cols = 5
+#start = (3,0)
+
+start_input = input('Enter start Co-ordinates:')
+start = tuple(int(x) for x in start_input.split(","))
+end_input = input('Enter goal co-ordinates:')
+goal = tuple(int(x) for x in end_input.split(","))
+
+#goal = (4,4)
 
 def drawGrid():
     blockSize = 100 #Set the size of the grid block
